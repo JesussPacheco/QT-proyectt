@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/camara.png</file>
+        <file>Imagenes/userdesc.jpg</file>
+        <file>Imagenes/perfillogo.png</file>
+    </qresource>
+</RCC>

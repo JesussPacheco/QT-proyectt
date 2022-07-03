@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Carpetaa"/>
+    <qresource prefix="/">
+        <file>Nueva carpeta/camara.png</file>
+        <file>Nueva carpeta/userdesc.jpg</file>
+    </qresource>
+</RCC>
